@@ -19,7 +19,7 @@ body {
   border: 5px solid rgb(0, 16, 51);
   left: 0;
   position: absolute;
-  background-color: rgba(25, 25, 112, 0.75);
+  background-color: rgba(25, 25, 112, 0.25);
 }
 
 #left-paddle {
