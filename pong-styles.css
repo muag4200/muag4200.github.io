@@ -15,6 +15,7 @@ body {
   border: 5px solid rgb(0, 16, 51);
   left: 0;
   position: absolute;
+  background-color: midnightblue;
 }
 
 #left-paddle {
@@ -34,6 +35,7 @@ body {
   position: absolute;
   margin: 10px;
   font-family: Arial, Helvetica, sans-serif;
+  color: indigo;
   
 }
 
@@ -44,6 +46,7 @@ body {
   margin: 10px;
   padding-left: 400px;
   font-family: Arial, Helvetica, sans-serif;
+  color: indigo;
 }
 
 #errors {
@@ -91,8 +94,10 @@ body {
 
 #left-score {
   left: 10%;
+  color: maroon;
 }
 
 #right-score {
   right: 10%;
+  color: maroon;
 }

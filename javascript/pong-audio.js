@@ -48,6 +48,7 @@ soundArray.push(wallSound); //add sound to list of sounds
 
 export var paddleSound = new soundFile("pongSound3.mp3");
 soundArray.push(paddleSound);
+paddleSound.player.volume.value = -18;
 
 export var scoreSound = new soundFile("phaserDown2.mp3");
 soundArray.push(scoreSound);
