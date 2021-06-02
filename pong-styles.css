@@ -7,7 +7,6 @@ html,
 body {
   padding: 0;
   margin: 0;
-  background-image: url(Eyes.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
@@ -19,7 +18,7 @@ body {
   border: 5px solid rgb(0, 16, 51);
   left: 0;
   position: absolute;
-  background-color: rgba(25, 25, 111, 0.25);
+  background-image: url(Eyes.gif);
 }
 
 #left-paddle {
